@@ -1,5 +1,5 @@
 {
-  "name": "usetablygi/laravel-crowdin-integration",
+  "name": "usetably/laravel-crowdin-integration",
   "description": "Automate translations uploading/downloading",
   "keywords": [
     "crowdin",
